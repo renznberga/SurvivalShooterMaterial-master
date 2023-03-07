@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalShooterTemplate", "SurvivalShooterTemplate.csproj", "{95D85158-9202-6316-8006-40CF266EE762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalShooterTemplate.Editor", "SurvivalShooterTemplate.Editor.csproj", "{904C99C7-29F6-A5BF-3DED-012DF3841E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D85158-9202-6316-8006-40CF266EE762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D85158-9202-6316-8006-40CF266EE762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D85158-9202-6316-8006-40CF266EE762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D85158-9202-6316-8006-40CF266EE762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904C99C7-29F6-A5BF-3DED-012DF3841E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904C99C7-29F6-A5BF-3DED-012DF3841E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904C99C7-29F6-A5BF-3DED-012DF3841E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904C99C7-29F6-A5BF-3DED-012DF3841E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
